@@ -10,8 +10,7 @@ services:
    
 
         image: edge-petrol-sre-challenge
-        volumes: 
-            - ./src
+
         ports:
             - 8000:8000
         networks:
