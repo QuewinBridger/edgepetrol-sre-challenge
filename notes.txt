@@ -2,3 +2,5 @@
 (permission issues with Ubuntu & Github SSH being the lengthy steps.)
 
 
+git tag -a 'api-v1.0.0' -m 'versioned tag'
+git push origin --tags

@@ -19,8 +19,8 @@ then
   echo "2) tag previously built image with latest"
   echo "Building and pushing image as latest to docker hub"
   
-  docker tag ${IMAGE} ${IMAGE}:edgepetrol-sre-challenge
-  docker push ${IMAGE}:edgepetrol-sre-challenge
+  docker tag ${IMAGE} ${IMAGE}:latest-edgepetrol-sre-challenge
+  docker push ${IMAGE}:latest-edgepetrol-sre-challenge
 
   echo "3) tag previously built image with version"
   echo "A VERSION was specified on this commit, therefore publishing tagged docker image APP_VERSION: ${APP_VERSION}"
