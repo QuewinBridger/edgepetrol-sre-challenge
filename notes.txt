@@ -7,7 +7,7 @@ git tag -a 'api-v1.0.0' -m 'versioned tag description'
 git push origin --tags
 
 AWS EC2 to host..
-Setting up ec2 5min?
+Setting up ec2 15 - 20 min -> wrong location...
 
 install docker:
 https://docs.docker.com/engine/install/ubuntu/
