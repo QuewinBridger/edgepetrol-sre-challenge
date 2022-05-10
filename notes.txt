@@ -1,0 +1,4 @@
+1hr to setup docker and run the project
+(permission issues with Ubuntu & Github SSH being the lengthy steps.)
+
+
