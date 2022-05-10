@@ -1,2 +1,3 @@
-terraform/
+terraform/.terraform
+terraform/variables.tf
 *edgepetrol-ec2.pem
