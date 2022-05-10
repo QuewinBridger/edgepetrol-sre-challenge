@@ -1,13 +1,7 @@
-1hr to setup docker and run the project
-(permission issues with Ubuntu & Github SSH being the lengthy steps.)
-15 mins to setup CI/CD Pipeline
-
+Tagging & CI/CD
 
 git tag -a 'api-v1.0.0' -m 'versioned tag description'
 git push origin --tags
-
-AWS EC2 to host..
-Setting up ec2 15 - 20 min -> wrong location...
 
 install docker:
 https://docs.docker.com/engine/install/ubuntu/
